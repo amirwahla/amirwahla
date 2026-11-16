@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Yaqoob</h1>
-<h3 align="center">I am a full stack developer and devOps engineer working in vvork cloud technologies and a PhD scholar specialization in data mining</h3>
+<h3 align="center">I am a full stack developer and devOps engineer working in Creasoft.io and Ms(CS) specialization in data mining</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirwahla&label=Profile%20views&color=0e75b6&style=flat" alt="amirwahla" /> </p>
 
